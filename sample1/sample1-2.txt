@@ -1,2 +1,2 @@
-hoge=11;
+hoge=1;
 fuga=20;
